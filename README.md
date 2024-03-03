@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/ddemile/VoiceMechanic-Public">
+    <img src="icon.png" alt="Voice Mechanic Logo" width="112" height="112">
+    <h3 align="center">Voice Mechanic</h3>
+  </a>
+</p>
+
 # Voice Mechanic
 
 Voice Mechanic is a proximity voice chat app for Scrap Mechanic. It allows players to speak to each other in-game using their device's microphone. 
