@@ -30,7 +30,7 @@ Voice Mechanic is a proximity voice chat app for Scrap Mechanic. It allows playe
 
 ## Reporting Issues 
 
-If you encounter any bugs or have feature requests, please open an issue on the [GitHub repository](https://github.com/yourname/voice-mechanic).
+If you encounter any bugs or have feature requests, please open an issue on the [GitHub repository](https://github.com/ddemile/VoiceMechanic-Public/issues).
 
 When submitting an issue, please provide:
 
