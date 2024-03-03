@@ -24,7 +24,6 @@ Voice Mechanic is a proximity voice chat app for Scrap Mechanic. It allows playe
 
 ## Usage
 
-- Make sure Scrap Mechanic is running before launching Voice Mechanic
 - Your microphone will be automatically detected  
 - Speak to chat with other nearby players
 - Adjust the max chat distance in settings
